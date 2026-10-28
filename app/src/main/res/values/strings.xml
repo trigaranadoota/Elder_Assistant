@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guide</string>
+    <string name="help_button">నాకు సహాయం చేయండి</string>
+    <string name="help_button_hint">పెద్ద బటన్ నొక్కండి</string>
+    <string name="status_idle">సిద్ధంగా ఉంది</string>
+    <string name="status_listening">వింటున్నాను… "సహాయం" అని చెప్పండి</string>
+    <string name="status_working">మీ స్క్రీన్ చూస్తున్నాను…</string>
+    <string name="status_talking">మాట్లాడుతున్నాను…</string>
+    <string name="status_offline">ఇంటర్నెట్ లేదు</string>
+    <string name="start_service">ప్రారంభించండి</string>
+    <string name="stop_service">ఆపండి</string>
+    <string name="perm_denied">మైక్రోఫోన్ అనుమతి అవసరం</string>
+    <string name="status_needs_screen">స్క్రీన్ అనుమతి అవసరం</string>
+    <string name="notify_channel">GuideAssistant</string>
+    <string name="notify_title">Guide సిద్ధంగా ఉంది</string>
+    <string name="notify_text">"సహాయం" అని చెప్పండి లేదా పవర్ బటన్ 3 సార్లు నొక్కండి</string>
+    <string name="lang_button">భాష: తెలుగు</string>
+    <string name="med_button">మందుల రిమైండర్</string>
+</resources>
